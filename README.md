@@ -3578,7 +3578,8 @@ the `coverage/` folder. Add it to your
 Your browser should have opened a window, 
 like so.
 
-<img width="1013" alt="image" src="https://user-images.githubusercontent.com/17494745/201144025-f68d9446-dd1c-4a5e-a985-e3bf92fc77fc.png">
+<img width="1013" alt="image" src="https://user-
+  images.githubusercontent.com/17494745/201144025-f68d9446-dd1c-4a5e-a985-e3bf92fc77fc.png">
 
 Congratulations, you now have a fully tested
 application! Awesome job! :tada:
@@ -3650,12 +3651,3 @@ In this document (if you actually read it all the way through 😉),
 you went from 0 to hero with Flutter. You learnt important
 principles and you *applied* them to create your own app in just
 around 20 minutes! Give yourself a pat on the back! :tada:
-
-If you wish to learn a bit more, take a look
-at this repo's `guides` folder to
-learn about [logging in with Firebase](./guides/login-firebase-tutorial.md) 
-or [webviews in Flutter](./guides/webview-tutorial.md).
-
-If you want to see more fully tested projects, check these out!
-- [flutter-todo-list-tutorial](https://github.com/dwyl/flutter-todo-list-tutorial)
-- [flutter-counter-example](https://github.com/dwyl/flutter-counter-example)
