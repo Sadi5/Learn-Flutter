@@ -1,5 +1,5 @@
 <p align="middle">
-  <a href="https:/https://github.com/Sadi5/Learn-Flutter/blob/main/ultimate-guide-to-flutter"><img src="https://github.com/Sadi5/Learn-Flutter/blob/main/banner.svg"></a>
+  <a href="https://github.com/antz22/ultimate-guide-to-flutter"><img src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/banner.svg"></a>
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/Sadi5/Learn-Flutter/blob/main/stargazers" alt="Stars">
-        <img src="https://github.com/Sadi5/Learn-Flutter/blob/main/ultimate-guide-to-flutter?style=for-the-badge" /></a>
-    <a href="https://github.com/Sadi5/Learn-Flutter/blob/main/network/members" alt="Forks">
+    <a href="https://github.com/antz22/ultimate-guide-to-flutter/stargazers" alt="Stars">
+        <img src="https://img.shields.io/github/stars/antz22/ultimate-guide-to-flutter?style=for-the-badge" /></a>
+    <a href="https://github.com/antz22/ultimate-guide-to-flutter/network/members" alt="Forks">
         <img src="https://img.shields.io/github/forks/antz22/ultimate-guide-to-flutter?style=for-the-badge" /></a>
     <a href="https://github.com/Solido/awesome-flutter">
         <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=for-the-badge" />
