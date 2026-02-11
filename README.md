@@ -1,5 +1,5 @@
 <p align="middle">
-  <a href="https://github.com/antz22/ultimate-guide-to-flutter"><img src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/banner.svg"></a>
+ <img src="https://github.com/Sadi5/Learn-Flutter/blob/main/banner.svg"></a>
 </p>
 
 <p align="center">
@@ -9,20 +9,39 @@
     A complete and comprehensive guide to learning Flutter with explanations, screenshots, tips, resources, and examples for Dart, Flutter, Firebase, State Management and more.
   </p>
 
-  <p align="center">
-    <a href="https://github.com/antz22/ultimate-guide-to-flutter/stargazers" alt="Stars">
-        <img src="https://img.shields.io/github/stars/antz22/ultimate-guide-to-flutter?style=for-the-badge" /></a>
-    <a href="https://github.com/antz22/ultimate-guide-to-flutter/network/members" alt="Forks">
-        <img src="https://img.shields.io/github/forks/antz22/ultimate-guide-to-flutter?style=for-the-badge" /></a>
-    <a href="https://github.com/Solido/awesome-flutter">
-        <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=for-the-badge" />
-    </a>
-    <a href="https://img.shields.io/badge/flutter-2.2-green" alt="Flutter">
-        <img src="https://img.shields.io/badge/flutter-2.2-green?style=for-the-badge" /></a>
-    <a href="https://img.shields.io/badge/dart-2.13-green" alt="Flutter">
-        <img src="https://img.shields.io/badge/dart-2.13-green?style=for-the-badge" /></a>
-  </p>
+ <p align="center">
+  <a href="https://github.com/Sadi5/Learn-Flutter/stargazers">
+    <img src="https://img.shields.io/github/stars/Sadi5/Learn-Flutter?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Sadi5/Learn-Flutter/network/members">
+    <img src="https://img.shields.io/github/forks/Sadi5/Learn-Flutter?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Sadi5/Learn-Flutter/issues">
+    <img src="https://img.shields.io/github/issues/Sadi5/Learn-Flutter?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Sadi5">
+    <img src="https://img.shields.io/badge/Created%20By-Sadia%20Liaqat-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://flutter.dev">
+    <img src="https://img.shields.io/badge/Flutter-Learning-blue?style=for-the-badge&logo=flutter" />
+  </a>
+
+  <a href="https://dart.dev">
+    <img src="https://img.shields.io/badge/Dart-Programming-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sadi5">
+  <img src="https://img.shields.io/badge/Maintainer-Sadia%20Liaqat-ff69b4?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Sadi5/Learn-Flutter">
+  <img src="https://img.shields.io/badge/🚀_Flutter_Developer-Sadia_Liaqat-6C63FF?style=for-the-badge" />
+</a>
+
 </p>
+
 <br />
 
 <details open="open">
