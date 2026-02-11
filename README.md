@@ -32,14 +32,6 @@
 
   <a href="https://dart.dev">
     <img src="https://img.shields.io/badge/Dart-Programming-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sadi5">
-  <img src="https://img.shields.io/badge/Maintainer-Sadia%20Liaqat-ff69b4?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/Sadi5/Learn-Flutter">
-  <img src="https://img.shields.io/badge/🚀_Flutter_Developer-Sadia_Liaqat-6C63FF?style=for-the-badge" />
-</a>
-
 </p>
 
 <br />
@@ -349,7 +341,6 @@ As always, make sure you review these concepts often to get familiar with them. 
 - [Dart Programing Tutorial - Full Course](https://youtu.be/Ej_Pcr4uC2Q)
 - [Dart Tutorials](https://dart.dev/tutorials)
 
-See the [dart_examples.dart](https://github.com/antz22/ultimate-guide-to-flutter/blob/master/code/dart_examples.dart) file in the 'code' folder to see all the examples from this dart tutorial.
 
 ## Learning Flutter UI
 
@@ -395,7 +386,7 @@ $ flutter create <project_name>
 
 The folder structure will look something like this. We will be putting all of our code in the 'lib' folder, and I'll explain the other folders later in the guide. For now, just follow along with the code in the guide and don't worry about project setup just yet.
 
-<img width="35%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/project_structure.png">
+<img width="35%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/project_structure.png">
 
 Good job! Now that we have our environment set up, let's take a look at how apps are laid out in the Flutter framework.
 
@@ -411,7 +402,7 @@ Widgets are essentially the basic elements or building blocks of an app that Flu
 Text('Some string here');
 ```
 
-<img src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/text_widget.png">
+<img src="https://github.com/Sadi5/Learn-Flutter/blob/main/text_widget.png">
 
 There's also a prebuilt button widget from the Flutter library called the ElevatedButton (just a Material theme button) which takes in an onPressed property (the code to be executed after the button is pressed) and a child property (the Text widget that displays the text of the button). Another one is the TextField, which handles input text.
 
@@ -452,8 +443,8 @@ Left: Row
 Right: Column
 
 <p>
-  <img width="60%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/row_widget.png">
-  <img width="30%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/column_widget.png">
+  <img width="60%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/row_widget.png">
+  <img width="30%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/column_widget.png">
 </p>
 
 Some layout widgets are wrapped around every other widget we put onto the screen. For example, the Scaffold widget is usually used to lay out or 'scaffold' the screen for us, and it is used like this:
@@ -473,8 +464,8 @@ Left: with Scaffold
 Right: without Scaffold
 
 <p>
-  <img width="45%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/scaffold_with.png">
-  <img width="45%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/scaffold_without.png">
+  <img width="45%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/scaffold_with.png">
+  <img width="45%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/scaffold_without.png">
 </p>
 
 Another useful widget is the ListView.builder widget. The ListView.builder widget takes in two main arguments - the itemCount (how many list items to build), and the itemBuilder (which will return what is actually built). Here's what it looks like.
@@ -522,7 +513,7 @@ Text(
 )
 ```
 
-<img src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/textstyle.png">
+<img src="https://github.com/Sadi5/Learn-Flutter/blob/main/textstyle.png">
 
 For styling in a Container widget, we use the 'decoration' property and pass in a 'BoxDecoration' object that is instantiated with our styles.
 
@@ -546,7 +537,7 @@ Container(
 )
 ```
 
-<img src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/container_style.png">
+<img src="https://github.com/Sadi5/Learn-Flutter/blob/main/container_style.png">
 
 In Column widgets, you might need to vertically align your objects to the center of the page. Here's how you could do that using the Column widget's 'mainAxisAlignment' property (main axis of the column is vertical). You can also align text horizontally in a column widget using the 'crossAxisAlignment' property.
 
@@ -568,8 +559,8 @@ Left: without MainAxisAlignment.center
 Right: with MainAxisAlignment.center (as in the code example above)
 
 <p>
-  <img width="45%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/column_start.png">
-  <img  width="45%"src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/column_center.png">
+  <img width="45%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/column_start.png">
+  <img  width="45%"src="https://github.com/Sadi5/Learn-Flutter/blob/main/column_center.png">
 </p>
 
 
@@ -830,8 +821,6 @@ Another great channel is [The Flutter Way](https://www.youtube.com/channel/UCJm7
 - [Online Shop App - Flutter UI - Speed Code](https://youtu.be/XBKzpTz65Io)
 - [COVID-19 App - Flutter UI - Speed Code](https://youtu.be/zx6uMCoW2gQ)
 
-See the [flutter_examples.dart](https://github.com/antz22/ultimate-guide-to-flutter/blob/master/code/flutter_examples.dart) file to see all the code snippets from this section of the tutorial (to use as reference).
-
 
 ## Learning Firebase
 
@@ -850,7 +839,7 @@ Essentially, a Firebase Firestore database is created by making top-level 'colle
 Documents are specific instances of its parent collection, which can be assigned a number of 'fields' with corresponding values. For example, here's how the Macbook Pro document in the Products collection might look: 
 
 left side: collections, middle: documents of the collection, right: fields in this document
-<img width="80%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/firestore.png">
+<img width="80%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/firestore.png">
 
 Note: I'm accessing a Cloud Firestore database through the [Firebase Console](https://console.firebase.google.com/) on a dummy project I created
 
@@ -1019,9 +1008,6 @@ MultiProvider(
 
 What a natural progression!
 
-That's the basics of state management. Take a look at the extra resources listed below to get more familiar with these concepts and syntax. Also, take a look at the [advanced_flutter_examples.dart](https://github.com/antz22/ultimate-guide-to-flutter/blob/master/code/advanced_flutter_examples.dart) file in the 'code' folder to see all of the examples provided in this section of the tutorial (to use as reference).
-
-
 ## Best Practices
 
 Best Practices are always important to keep in mind when developing any large projects in Flutter.
@@ -1034,7 +1020,7 @@ Here's how folders are usually structured:
 
 As we saw before, lib is where you will put all your flutter code. Flutter then converts its code into android and ios code to make native apps, which can be found in the android and ios folders. Any images, svgs, or pictures you use should be placed in an 'assets' folder, which you have to create.
 
-<img width="35%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/folder_structure.png">
+<img width="35%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/folder_structure.png">
 
 In the lib folder, you should split code up into screens, models, services, widgets, and constants. Main.dart will be your wrapper file.
 
@@ -1060,7 +1046,7 @@ Services is used for putting all the classes that contain any business logic. Th
 
 Widgets is used for putting all widgets you custom created that you use for multiple screens. For example, if you created your own Button widget that you want to use on both the login and sign_in screens, just put that Button file into the widgets folder.
 
-<img width="35%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/example_folder_structure.png">
+<img width="35%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/example_folder_structure.png">
 
 ### Separate Business Logic from Frontend
 
@@ -1179,7 +1165,7 @@ Now that you know the basic syntax of Flutter and how it works, you need to put 
 
 To help you out a bit, I've picked a [dribbble post](https://dribbble.com/shots/15079032-Travel-App-Concept) you can try to implement in a Flutter app on your own.
 
-<img width="70%" src="https://github.com/antz22/ultimate-guide-to-flutter/blob/master/assets/dribbble.webp">
+<img width="70%" src="https://github.com/Sadi5/Learn-Flutter/blob/main/dribbble.webp">
 
 This is a dribbble post created by [Risang Kuncoro](https://dribbble.com/risangkuncoro) that consists of 2 screens of a travel app. The challenge is to (almost) perfectly recreate this app on a Flutter project of your own.
 
